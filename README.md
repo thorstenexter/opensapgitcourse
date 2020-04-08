@@ -1,2 +1,2 @@
 # opensapgitcourse
-Repository used in openSAP Git Course
+Repository for [openSAP](https://www.opensap.com) Git Course
