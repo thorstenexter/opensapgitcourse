@@ -5,6 +5,11 @@ h1 {
 h2 {
     color: green;
 }
+
+h3 {
+    color: magenta;
+}
+
 li {
-	color: red;
+    color: red;
 }
